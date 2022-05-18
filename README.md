@@ -17,5 +17,5 @@ Future Scope:
 A system which is scalable and maybe used for real time applications
 and one which also handles the financial aspect of things . It is mainly aimed at 
 making one system for all medical information even amongst different hospitals so that
-the disbursement of information and the confusions in between ar reduced to a minimum and
+the disbursement of information and the confusions in between are reduced to a minimum and
 a standard of medical information storage can be formed.
