@@ -1,4 +1,4 @@
-# CFM-End-Sem
+# CFM Project (Doctor-Patient-Hospital record generation and storing)
 
 Doctor-patient-hospital record making app with privacy
 considerations.
